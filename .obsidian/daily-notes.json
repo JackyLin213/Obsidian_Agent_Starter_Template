@@ -1,3 +1,5 @@
 {
-  "folder": "00_Inbox"
+  "folder": "20_Areas/日誌",
+  "template": "90_System/Templates/Template - Daily Note.md",
+  "format": "YYYY-MM-DD"
 }
