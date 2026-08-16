@@ -1,3 +1,7 @@
 [
-  "dataview"
+  "dataview",
+  "templater-obsidian",
+  "omnisearch",
+  "obsidian-linter",
+  "smart-connections"
 ]
